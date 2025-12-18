@@ -76,7 +76,7 @@ Used for: dates, money, phone numbers, minutes
 | 구 | gu | 9 |
 | 십 | ship | 10 |
 
-**Anki Status**: [ ] Add all vocabulary to Anki deck "Week 1"
+**Anki Status**: [X] Add all vocabulary to Anki deck "Week 1"
 
 ---
 
