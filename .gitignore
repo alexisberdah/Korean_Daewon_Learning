@@ -1,0 +1,22 @@
+# Personal notes and progress
+# (Keep these files local for privacy)
+
+# MacOS
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+
+# Optional: Uncomment if you want to keep assessments private
+# ASSESSMENTS/
+
+# Optional: Uncomment if you want to keep student profile private
+# STUDENT_PROFILE.md
