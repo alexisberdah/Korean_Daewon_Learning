@@ -242,6 +242,7 @@ Write an appropriate greeting for each situation:
 4. Apologizing to a colleague: _________________________
 5. Saying yes to a question: _________________________
 
+Alex's answers:
 1. 아녕하세요 선생님.
 2. 안녕!
 3. 감사합니다.
