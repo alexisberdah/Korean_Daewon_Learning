@@ -272,6 +272,9 @@ Practice these with your Korean friend today:
    - You say what number it is
    - Switch roles!
 
+What I said to Youngchae:
+- 진짜 많이 사랑해. 앞으로 내가 곁에서 잘 챙겨줄게.
+
 ### Pronunciation Focus
 Pay special attention to these sounds:
 - **ㅓ vs ㅗ**: 여섯 (yeo-seot) vs 오 (o)
@@ -293,6 +296,8 @@ Today's listening is just for exposure:
 - Did you hear any greetings? _______
 - Did you hear any numbers? _______
 - What sounds are you getting used to? _______
+
+Skipped, just listened to Korean without thinking too much.
 
 ---
 
