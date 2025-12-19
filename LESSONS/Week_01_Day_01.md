@@ -185,8 +185,6 @@ Used for: dates, money, phone numbers, minutes
 2. What is the person's occupation? (학생 - student)
 3. Is this formal or informal? (Formal/polite)
 
-Note for AI: you gave me the answers directly instead of letting me think by myself. Correct me only when I have filled the document and asked you so next time
-
 **Translation Practice**:
 Translate this to English, then write your own version in Korean!
 
