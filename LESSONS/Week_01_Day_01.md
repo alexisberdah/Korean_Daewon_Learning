@@ -227,6 +227,12 @@ Write out the following numbers in BOTH systems:
 4. 50: _____________ (native) / _____________ (sino)
 5. 99: _____________ (native) / _____________ (sino)
 
+1. 7: 일겁 / 칠
+2. 15: 열다섯 / 십오
+3. 24: 스물넷 / 이십사
+4. 50: 쉰 / 오십
+5. 99: 아흔아홉 / 구십구
+
 ### Exercise 3: Greeting Scenarios
 Write an appropriate greeting for each situation:
 
@@ -235,6 +241,12 @@ Write an appropriate greeting for each situation:
 3. Thanking someone formally: _________________________
 4. Apologizing to a colleague: _________________________
 5. Saying yes to a question: _________________________
+
+1. 아녕하세요 선생님.
+2. 안녕!
+3. 감사합니다.
+4. 고마워요.
+5. 네 / 맞아요
 
 ---
 
