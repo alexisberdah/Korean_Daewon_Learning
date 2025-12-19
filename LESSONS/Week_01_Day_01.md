@@ -188,6 +188,10 @@ Used for: dates, money, phone numbers, minutes
 **Translation Practice**:
 Translate this to English, then write your own version in Korean!
 
+English: Hello, my name is Daewon. I am a student. Nice to meet you!
+
+Alex’s Korean version: 안녕하세요. 저는 대원입니다. 학생입니다. 만나서 반갑습니다!
+
 ---
 
 ### Text 2: Numbers in Context
